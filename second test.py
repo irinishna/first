@@ -1,5 +1,5 @@
 name = input('Enter your name, please:')
-print('Nice to meet you,'+name+'!')
-enter = input("I'm sure I'm two years older than you,"+name+". Just enter your age:")
+print('Nice to meet you,' + name + '!')
+enter = input("I'm sure I'm two years older than you," + name + ". Just enter your age:")
 age = int(enter)
-print("Ha, I'm " + str(age+2) + ". I knew it")
+print("Ha, I'm " + str(age + 2) + ". I knew it")
